@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Mar  8 17:04:45 2023
-
 @author: abdiel
+Compute stiffness facto fb from the hypoplastic model of von Wolfersdoff
 """
 import numpy
 import matplotlib.pyplot as plt
